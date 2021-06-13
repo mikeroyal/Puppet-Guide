@@ -10,25 +10,25 @@
 
 # Table of Contents
 
-1. [Puppet Learning Resources](https://github.com/mikeroyal/Puppet-Guide#)
+1. [Puppet Learning Resources](https://github.com/mikeroyal/Puppet-Guide#puppet-learning-resources)
 
-2. [Puppet Tools and Services](https://github.com/mikeroyal/Puppet-Guide#)
+2. [Puppet Tools and Services](https://github.com/mikeroyal/Puppet-Guide#puppet-tools-and-services)
 
-3. [DevOps Tools Integration](https://github.com/mikeroyal/Puppet-Guide#)
+3. [DevOps Tools Integration](https://github.com/mikeroyal/Puppet-Guide#devops-tools-integration)
 
-4. [Kubernetes](https://github.com/mikeroyal/Puppet-Guide#)
+4. [Kubernetes](https://github.com/mikeroyal/Puppet-Guide#kubernetes)
 
-5. [Docker](https://github.com/mikeroyal/Puppet-Guide#)
+5. [Docker](https://github.com/mikeroyal/Puppet-Guide#docker)
 
-6. [Azure Development](https://github.com/mikeroyal/Puppet-Guide#)
+6. [Azure Development](https://github.com/mikeroyal/Puppet-Guide#azure-development)
 
-7. [AWS Development](https://github.com/mikeroyal/Puppet-Guide#)
+7. [AWS Development](https://github.com/mikeroyal/Puppet-Guide#aws-development)
 
-8. [Google Cloud Platform Development](https://github.com/mikeroyal/Puppet-Guide#)
+8. [Google Cloud Platform Development](https://github.com/mikeroyal/Puppet-Guide#google-cloud-platform-development)
 
-9. [VMware Development](https://github.com/mikeroyal/Puppet-Guide#)
+9. [VMware Development](https://github.com/mikeroyal/Puppet-Guide#vmware-development)
 
-10. [Cisco Development](https://github.com/mikeroyal/Puppet-Guide#)
+10. [Cisco Development](https://github.com/mikeroyal/Puppet-Guide#cisco-development)
 
 
  <p align="center">
